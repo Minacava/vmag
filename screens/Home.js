@@ -20,6 +20,7 @@ export default class Home extends Component {
                     resizeMode={"cover"}
                     ignoreSilentSwitch={"obey"}
                 />
+                <Header />
             </View>
         )
     }
@@ -27,9 +28,6 @@ export default class Home extends Component {
 const { height } = Dimensions.get("window");
 
 const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-    },
     backgroundVideo: {
         height: height,
         position: "absolute",

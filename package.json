@@ -1,5 +1,5 @@
 {
-  "name": "VideoMag",
+  "name": "Vmag",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,7 +9,8 @@
   "dependencies": {
     "react": "16.8.3",
     "react-native": "0.59.8",
-    "react-native-video": "^4.4.1"
+    "react-native-video": "^4.4.1",
+    "styled-components": "^4.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
