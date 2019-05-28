@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/marina/Desktop/Vmag/node_modules/react-native/Libraries/fishhook/fishhook.c \
-  /Users/marina/Desktop/Vmag/node_modules/react-native/Libraries/fishhook/fishhook.h
+  /Users/marina/Desktop/react/vmag/node_modules/react-native/Libraries/fishhook/fishhook.c \
+  /Users/marina/Desktop/react/vmag/node_modules/react-native/Libraries/fishhook/fishhook.h

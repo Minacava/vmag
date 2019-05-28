@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/marina/Desktop/Vmag/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/marina/Desktop/Vmag/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/marina/Desktop/react/vmag/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/marina/Desktop/react/vmag/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h

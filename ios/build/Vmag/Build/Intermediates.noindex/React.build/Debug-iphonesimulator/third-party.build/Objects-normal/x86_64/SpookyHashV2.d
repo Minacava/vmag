@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/marina/Desktop/Vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.cpp \
-  /Users/marina/Desktop/Vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
-  /Users/marina/Desktop/Vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
-  /Users/marina/Desktop/Vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
-  /Users/marina/Desktop/Vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
-  /Users/marina/Desktop/Vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h
+  /Users/marina/Desktop/react/vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.cpp \
+  /Users/marina/Desktop/react/vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/marina/Desktop/react/vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/marina/Desktop/react/vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/marina/Desktop/react/vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/marina/Desktop/react/vmag/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h
