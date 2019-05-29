@@ -6,8 +6,8 @@ import Home from './screens/Home';
 export default class App extends Component {
   render() {
     return (
-      <View>
-        <StatusBar barStyle="light-content" hidden={false} translucent={true} />
+      <View style={styles.container}>
+        <StatusBar barStyle="dark-content" hidden={false} translucent={true} />
         <Home />
       </View>
     );

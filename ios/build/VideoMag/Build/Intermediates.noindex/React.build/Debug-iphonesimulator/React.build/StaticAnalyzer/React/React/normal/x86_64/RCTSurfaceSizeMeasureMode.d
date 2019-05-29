@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/marina/Desktop/react/vmag/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.mm \
-  /Users/marina/Desktop/react/vmag/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h \
-  /Users/marina/Desktop/react/vmag/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/marina/Desktop/react/vmag/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
-  /Users/marina/Desktop/react/vmag/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h
+  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.mm \
+  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h \
+  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h
