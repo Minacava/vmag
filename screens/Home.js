@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import { View, StyleSheet, Dimensions } from 'react-native';
+import { View, StyleSheet, Dimensions, Text } from 'react-native';
 import Video from 'react-native-video';
-
 import { Header } from 'react-native-elements';
 
+import Footer from '../components/footer';
 
 export default class Home extends Component {
     render() {
@@ -13,7 +13,7 @@ export default class Home extends Component {
                     ref={(ref) => {
                         this.player = ref
                     }}
-                    source={require("../assets/videos/snow.mp4")}                                   // Store reference
+                    source={require("../assets/videos/sail.mp4")}                                   // Store reference
                     repeat={true}
                     muted={true}
                     style={styles.backgroundVideo}
@@ -35,6 +35,8 @@ export default class Home extends Component {
                         color: '#fff'
                     }}
                 />
+                <Text h1>Heading 1</Text>
+                <Footer />
             </View>
         )
     }
@@ -52,7 +54,7 @@ const styles = StyleSheet.create({
         left: 0,
         alignItems: "stretch",
         bottom: 0,
-        right: 0
+        right: 0,
     },
     backgrounColor: {
         backgroundColor: 'white'
