@@ -4,6 +4,8 @@ import Video from 'react-native-video';
 import { Header } from 'react-native-elements';
 
 import Footer from '../components/footer';
+import HomeSeparator from '../components/dividers/home-separator';
+import Title from '../components/title';
 
 export default class Home extends Component {
     render() {
@@ -13,7 +15,7 @@ export default class Home extends Component {
                     ref={(ref) => {
                         this.player = ref
                     }}
-                    source={require("../assets/videos/sail.mp4")}                                   // Store reference
+                    source={require("../assets/videos/Superb_sunset.mp4")}                                   // Store reference
                     repeat={true}
                     muted={true}
                     style={styles.backgroundVideo}
@@ -23,24 +25,45 @@ export default class Home extends Component {
                 <Header
                     leftComponent={{
                         icon: 'menu',
-                        color: '#fff'
+                        color: '#fff',
+                        marginLeft: 10,
+                        size: 40,
+
                     }}
                     containerStyle={{
                         backgroundColor: 'transparent',
                         justifyContent: 'space-around',
+                        borderBottomColor: 'transparent',
                     }}
-                    centerComponent={{ text: '', style: { color: 'blue' } }}
+                    centerComponent={{
+                        text: '',
+                        style: {
+                            color: 'blue'
+                        }
+                    }}
                     rightComponent={{
                         icon: 'search',
-                        color: '#fff'
+                        color: '#fff',
+                        marginRight: 10,
+                        size: 40,
                     }}
                 />
-                <Text h1>Heading 1</Text>
+                <View style={styles.titleContanier}>
+                    <Text style={styles.title} h1>WANDERLUST  </Text>
+                    <Text style={styles.subTitle} h1>The first VERTICAL-MAG </Text>
+                    <HomeSeparator />
+                    <Text style={styles.date} h1>2019  Nº 001</Text>
+                </View>
+                <View style={styles.titleArticle} >
+                    <Title />
+                </View>
                 <Footer />
             </View>
         )
     }
 }
+
+
 const { height } = Dimensions.get("window");
 
 const styles = StyleSheet.create({
@@ -55,8 +78,28 @@ const styles = StyleSheet.create({
         alignItems: "stretch",
         bottom: 0,
         right: 0,
+        opacity: 0.7,
     },
-    backgrounColor: {
-        backgroundColor: 'white'
+    titleContanier: {
+        flex: 1,
+        flexDirection: 'column',
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
+    title: {
+        fontSize: 45,
+        color: 'white',
+    },
+    subTitle: {
+        fontSize: 20,
+        color: 'white'
+    },
+    date: {
+        fontSize: 15,
+        color: 'black',
+        letterSpacing: 3,
+    },
+    titleArticle: {
+        bottom: 160,
     }
 });
