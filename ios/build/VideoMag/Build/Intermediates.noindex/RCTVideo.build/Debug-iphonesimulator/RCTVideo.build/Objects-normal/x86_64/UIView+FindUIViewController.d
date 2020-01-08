@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native-video/ios/Video/UIView+FindUIViewController.m \
-  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native-video/ios/Video/UIView+FindUIViewController.h
+  /Users/minamac/Desktop/Proyectos/vmag/node_modules/react-native-video/ios/Video/UIView+FindUIViewController.m \
+  /Users/minamac/Desktop/Proyectos/vmag/node_modules/react-native-video/ios/Video/UIView+FindUIViewController.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.m \
-  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h
+  /Users/minamac/Desktop/Proyectos/vmag/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.m \
+  /Users/minamac/Desktop/Proyectos/vmag/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h

@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.m \
-  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
-  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
+  /Users/minamac/Desktop/Proyectos/vmag/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.m \
+  /Users/minamac/Desktop/Proyectos/vmag/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/minamac/Desktop/Proyectos/vmag/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/minamac/Desktop/Proyectos/vmag/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

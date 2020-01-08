@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.cpp \
-  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
-  /Users/marina/Desktop/ReactNative/vmag/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h
+  /Users/minamac/Desktop/Proyectos/vmag/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.cpp \
+  /Users/minamac/Desktop/Proyectos/vmag/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/minamac/Desktop/Proyectos/vmag/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h
